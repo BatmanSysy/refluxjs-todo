@@ -1,1 +1,6 @@
 /* base.css overrides */
+
+.EmailImport {
+	width: 250px;
+	height: 180px;
+}
